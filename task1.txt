@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master task1
+=======
+new task1
+>>>>>>> backtoNew
